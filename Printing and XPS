@@ -1,0 +1,2 @@
+Windows has used a print spool system based on the Win32 Enhanced Meta File (EMF) format for many years.
+XPS, the XML Paper Specification, enables WPF-based graphics to be sent for printing without any loss of fidelity.
